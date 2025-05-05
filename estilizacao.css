@@ -1,0 +1,10 @@
+body{background-color: #114a9956;}
+h1{color:blue; text-align: center;}
+p{font-size: 30px; text-align: justify;}
+ul li{padding: 25px;}
+img{border-radius: 25px; position;}
+td, th{border-radius:25px; padding:25px; border: 1px solid; vertical-align: bottom; text-align: center;}
+.pais1{background-image: url(uruguai.jpeg); background-position: center; background-size: 160px 110px; background-repeat: no-repeat;}
+.pais2{background-image: url(argentina.jpeg); background-position: center; background-size: 155px 102px; background-repeat: no-repeat;}
+.pais3{background-image: url(holanda.jpeg); background-position: center; background-size: 155px 102px; background-repeat: no-repeat;}
+a:hover{color: black;}
